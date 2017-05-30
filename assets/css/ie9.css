@@ -21,15 +21,15 @@
 }
 
 
-/* Posts */
+/* projects */
 
-.posts:after {
+.projects:after {
     clear: both;
     content: '';
     display: block;
 }
 
-.posts article {
+.projects article {
     float: left;
 }
 
