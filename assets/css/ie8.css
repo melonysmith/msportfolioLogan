@@ -1,4 +1,4 @@
-/* Button */
+/* BUTTON */
 
 input[type="submit"],
 input[type="reset"],
@@ -9,7 +9,7 @@ button,
 }
 
 
-/* projects */
+/* PROJECTS */
 
 .projects article {
     width: 40%;

@@ -1035,6 +1035,7 @@ button:hover,
     }
     #sidebar .toggle:before {
         font-size: 2em;
+        position: absolute;
     }
     #sidebar.inactive {
         margin-left: -17em;
@@ -1045,7 +1046,7 @@ button:hover,
     #sidebar {
         height: 100%;
         left: 0;
-        position: fixed;
+        position: absolute;
         top: 0;
         z-index: 10000;
     }
@@ -1074,6 +1075,7 @@ button:hover,
     #sidebar .toggle:before {
         font-size: 2em;
         margin-left: -0.4375em;
+        position: absolute;
     }
     body.is-loading #sidebar {
         display: none;

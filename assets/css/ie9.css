@@ -1,4 +1,4 @@
-/* Features */
+/* FEATURES */
 
 .features:after {
     clear: both;
@@ -21,7 +21,7 @@
 }
 
 
-/* projects */
+/* PROJECTS */
 
 .projects:after {
     clear: both;
@@ -34,14 +34,14 @@
 }
 
 
-/* Main */
+/* MAIN */
 
 #main {
     padding-left: 24em;
 }
 
 
-/* Sidebar */
+/* SIDEBAR */
 
 #sidebar {
     position: absolute;
@@ -52,7 +52,7 @@
 }
 
 
-/* Banner */
+/* BANNER */
 
 #banner:after {
     clear: both;
